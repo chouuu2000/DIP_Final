@@ -17,3 +17,4 @@ FOLDER
 - LDR_v1_0 contains HE、CVC、WAHE、LDR method
 - run the demo.m file in the abovementioned folder to get the result
 - result images are shown in the images folder
+- the anchor folder in the images folder stores our dip project result 
