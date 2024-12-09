@@ -11,7 +11,9 @@ REFERENCE
 ### CVC
 - [paper](https://ieeexplore.ieee.org/document/5773086) 
 
-folder
+FOLDER
 ===
 - low light retinex contains the code of RETINEX method
-- LDR_v1_0 contains HE、CVC、WAHE、LDR method 
+- LDR_v1_0 contains HE、CVC、WAHE、LDR method
+- run the demo.m file in the abovementioned folder to get the result
+- result images are shown in the images folder
