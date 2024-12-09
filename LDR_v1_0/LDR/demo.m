@@ -4,7 +4,7 @@ addpath('./CE');
 
 
 %% user inputs
-in_name = 'img';
+in_name = 'img_4';
 in_ext = 'png';
 in_file = sprintf('%s.%s', in_name, in_ext);
 

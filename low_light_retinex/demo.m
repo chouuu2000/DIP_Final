@@ -1,5 +1,5 @@
 clear;
-img = double(imread('img.png'));
+img = double(imread('10.bmp'));
 
 para.epsilon_stop_L = 1e-3;
 para.epsilon_stop_R = 1e-3;
@@ -18,6 +18,7 @@ gamma = 2.2;
 res = R.*L.^(1/gamma);
 
 figure,imshow(res)
+imwrite(res, 'img_10_re.png')
 
 
 
